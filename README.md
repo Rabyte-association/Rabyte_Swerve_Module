@@ -5,7 +5,7 @@
 
 #8127's custom swerve module design and documentation
 
-Basic characteristic:
+Basic characteristics:
 
 - as metric as possibile
 - using NEOs for both driving and steering
