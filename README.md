@@ -10,10 +10,10 @@ Basic characteristics:
 - as metric as possibile
 - using NEOs for both driving and steering
 - using Redux HELIUM Canandcoders
-- custom polyurethane casted wheels
+- custom polyurethane cast wheels with PLA cores 
 - 30x60mm profiles for frame
 - some 3D printed parts
-- gears are modified off the shelf metric gears
+- gears are modified off-the-shelf metric gears
 - 7:64 steering ratio
 - 1:7 or 4:21 drive ratio (1 gear swap)
 - the design is based on the SDS mk4.
