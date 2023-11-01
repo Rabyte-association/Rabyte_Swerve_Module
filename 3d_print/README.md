@@ -10,6 +10,6 @@ Printing settings:
 - infil around 50%, alos for strenght
 - supports: mostly no
 
-![cura](../images\cura_screenshoot.png)
+![cura](../images/cura_screenshoot.png)
 
 We also printed the whole module (except for axels and bearings) and it kinda works. Of course we don't recomend using it, most parts should be made of steel and aluminium.
