@@ -10,7 +10,7 @@ Basic characteristics:
 - as metric as possibile
 - using NEOs for both driving and steering
 - using Redux HELIUM Canandcoders
-- custom polyurethane cast wheels with PLA cores 
+- custom polyurethane cast wheels with PLA cores
 - 30x60mm profiles for frame
 - some 3D printed parts
 - gears are modified off-the-shelf metric gears
