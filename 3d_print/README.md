@@ -5,7 +5,7 @@
 Some of the parts in the module are 3D printed.
 Printing settings:
 
-- PLA is good enough
+- PLA is **not** good enough
 - around 5 walls, for strength
 - infill around 50%, also for strength
 - supports: not required for most parts
