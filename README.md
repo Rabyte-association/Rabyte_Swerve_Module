@@ -34,6 +34,5 @@
 ## Drivebase
 
 We designed custom drivebase based on our modules, we are planing to use it in competition.
-Onshape link: [drivebase cad link](https://cad.onshape.com/documents/012b6aa6ca8f98a975c3e93b/w/7b513a2cf96c4c9739c20c7f/e/b5b0c5cf1ca33fb7e982671a?renderMode=0&uiState=65919a7765a59c04a1a69403)
-
+Onshape link: [drivebase cad link](https://cad.onshape.com/documents/012b6aa6ca8f98a975c3e93b/w/842512061215ac90e2240268/e/b5b0c5cf1ca33fb7e982671a?renderMode=0&uiState=6591afeed01e491ae2702061)
 ![bd](./images/db_screenshot.png)
